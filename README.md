@@ -1,7 +1,7 @@
-# mail-in-C \n
-mail using C language
+**# mail-in-C **
+_mail using C language_
 tips to use:
-1- clone it
+1- clone it                                                                                                                                                                
 2- include mail.h in C:\Program Files (x86)\Dev-Cpp\MinGW64 include folder
 3- then run the example program
 4- then comment out the other two functions in the program except the Sendmail() function then run again
