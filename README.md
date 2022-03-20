@@ -1,4 +1,4 @@
-# mail-in-C
+# mail-in-C \n
 mail using C language
 tips to use:
 1- clone it
